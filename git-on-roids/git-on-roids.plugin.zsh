@@ -7,14 +7,14 @@ alias gd='git diff'
 alias gpo='git push origin '
 
 # branch navigation
-alias gcom='git co master'
+alias gcom='git checkout master'
 
 #rebasing
 alias grab='git rebase --abort'
 alias grc='git rebase --continue'
 alias grs='git rebase --skip'
-alias gcoo='git co --ours'
-alias gcot='git co --theirs'
+alias gcoo='git checkout --ours'
+alias gcot='git checkout --theirs'
 
 #general tomfoolery
 alias gcam='git commit --amend'
