@@ -10,6 +10,7 @@ alias gpo='git push origin '
 alias gcom='git checkout master'
 
 #rebasing
+alias gpr='git pull --rebase'
 alias grab='git rebase --abort'
 alias grc='git rebase --continue'
 alias grs='git rebase --skip'
